@@ -1,0 +1,6 @@
+{
+  "name": "ZOUMFX VIP Community & Trading Bot",
+  "description": "Official ZOUMFX VIP XAUUSD gold trading subscription plans, invite system, USDT payment verification, and community access management.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
